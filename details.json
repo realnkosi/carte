@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Harare",
+        "capital": "N/A",
+        "population": "2,162,400",
+        "hdi": 0.650,
+        "area": 872,
+        "languages": ["English", "Shona"]
+    },
+    {
+        "name": "Bulawayo",
+        "capital": "N/A",
+        "population": "1,653,337",
+        "hdi": 0.640,
+        "area": 479,
+        "languages": ["English", "Ndebele"]
+    },
+    {
+        "name": "Manicaland",
+        "capital": "Mutare",
+        "population": "1,755,000",
+        "hdi": 0.565,
+        "area": "36,359",
+        "languages": ["English", "Shona"]
+    },
+    {
+        "name": "Mashonaland Central",
+        "capital": "Bindura",
+        "population": "1,156,000",
+        "hdi": 0.550,
+        "area": "28,347",
+        "languages": ["English", "Shona"]
+    },
+    {
+        "name": "Mashonaland East",
+        "capital": "Marondera",
+        "population": "1,349,000",
+        "hdi": 0.575,
+        "area": "32,543",
+        "languages": ["English", "Shona"]
+    },
+    {
+        "name": "Mashonaland West",
+        "capital": "Chinhoyi",
+        "population": "1,494,000",
+        "hdi": 0.590,
+        "area": "57,839",
+        "languages": ["English", "Shona"]
+    },
+    {
+        "name": "Masvingo",
+        "capital": "Masvingo",
+        "population": "1,482,000",
+        "hdi": 0.545,
+        "area": "56,566",
+        "languages": ["English", "Shona"]
+    },
+    {
+        "name": "Matabeleland North",
+        "capital": "Lupane",
+        "population": "749,017",
+        "hdi": 0.525,
+        "area": "75,181",
+        "languages": ["English", "Ndebele"]
+    },
+    {
+        "name": "Matabeleland South",
+        "capital": "Gwanda",
+        "population": "683,893",
+        "hdi": 0.535,
+        "area": "54,478",
+        "languages": ["English", "Ndebele"]
+    },
+    {
+        "name": "Midlands",
+        "capital": "Gweru",
+        "population": "1,669,000",
+        "hdi": 0.580,
+        "area": "49,841",
+        "languages": ["English", "Shona", "Ndebele"]
+    }
+]
